@@ -14,9 +14,9 @@ Successfully design a web page whose content is usable when all styling is remov
 Effectively build pages whose code is cleanly and efficiently written. 10 8<br>
 Demonstrate a careful attention to detailed execution. 10 7<br>
 <br>
-total 70 56
-x 1.43
-points earned 100 80.08
+total 56 of 70 <br>
+x 1.43<br>
+<strong>points earned 80.08 of 100</strong>
 <br>
 
 <strong>ADDITIONAL COMMENTS</strong><br>
@@ -26,12 +26,13 @@ places, your content is not aligned vertically and it disrupts the cleanliness o
 good effort here, focus on using typography sensitively and on clean alignments. Keep
 going!
 <br>
-<strong>CALCULATIONS</strong><br>
-project points 80.08
-deductions & bonuses 0
 <br>
-EARNED PROJECT POINTS 80.08
+<strong>CALCULATIONS</strong><br>
+project points 80.08<br>
+deductions & bonuses 0<br>
+<br>
+EARNED PROJECT POINTS 80.08<br>
 x 1
 <br>
-<strong>GRADE AS PERCENTAGE 80.08 </strong>
+<strong>GRADE AS PERCENTAGE 80.08 </strong><br>
 <strong>LETTER GRADE B</strong>
